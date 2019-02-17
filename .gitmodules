@@ -1,0 +1,3 @@
+[submodule "mrl-slave-repository"]
+	path = mrl-slave-repository
+	url = git@github.com:sushantsahu1987/mrl-slave-repository.git
